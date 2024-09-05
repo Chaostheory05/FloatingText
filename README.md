@@ -1,5 +1,5 @@
 # FloatingText
-// This code is from Epitome's Tutorial https://www.youtube.com/watch?v=b8YUfee_pzc&t=23003s
+
 
 
 
